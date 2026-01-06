@@ -6,3 +6,6 @@ bin/net/konic/employeemanagementsystem/EmployeeData.class
 bin/net/konic/employeemanagementsystem/EmployeeMain.class
 bin/net/konic/employeemanagementsystem/EmployeeService.class
 bin/net/konic/employeemanagementsystem/EmployeeService.class
+bin/net/konic/employeemanagementsystem/BasePerson.class
+bin/net/konic/employeemanagementsystem/EmployeeData.class
+bin/net/konic/employeemanagementsystem/EmployeeService.class
